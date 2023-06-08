@@ -25,7 +25,7 @@
 
 **RedHat, Quality Engineer (Internship)**
 
-**TL：**Apr 2021-Sep 2021
+**TL：** Apr 2021-Sep 2021
 
 **Tasks：**
 
@@ -50,7 +50,7 @@
 
 **(ZhiHu)Wise Four Co., Data Warehouse Engineer**
 
-**TL：**Jun 2022-Dec 2022
+**TL：** Jun 2022-Dec 2022
 
 **Tasks：**
 
@@ -64,7 +64,7 @@
 
 Intelligent Traditional Chinese Medicine Research Group, Research and Development
 
-**TL：**Sep 2020-Jul 2022
+**TL：** Sep 2020-Jul 2022
 
 **Tasks：**
 
